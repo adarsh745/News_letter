@@ -1,0 +1,773 @@
+{
+    "status": "ok",
+    "totalResults": 59,
+    "articles": [
+      {
+        "source": {
+          "id": "le-monde",
+          "name": "Le Monde"
+        },
+        "author": "Marie-Béatrice Baudet",
+        "title": "JO 2024 : à Versailles, l’art ancestral du dressage fait son « retour aux sources »",
+        "description": "A partir du 27 juillet, le parc du château accueille les épreuves d’équitation. Une plongée aux origines des arts équestres, pratiqués dans ce cadre royal depuis la fin du XVIIᵉ siècle.",
+        "url": "https://www.lemonde.fr/sport/article/2024/07/27/jo-2024-a-versailles-l-art-ancestral-du-dressage-fait-son-retour-aux-sources_6259138_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/07/26/1/0/5650/3766/1440/960/60/0/9eb6a8c_1721979591250-lgeai-versailles-jo-54.jpg",
+        "publishedAt": "2024-07-27T05:00:07Z",
+        "content": "Lécuyère Laure Guillaume, à la Grande Écurie du château, à Versailles, le 31 mai 2023. LAURENCE GEAI /MYOP POUR « LE MONDE »\r\nSamedi matin, ce sera bal, à Versailles. Exceptionnellement, il naura pas… [+2939 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Andrew Grush",
+        "title": "Boost Mobile’s big change made picking a plan so easy, the Big Three should copy it",
+        "description": "Boost Mobile brought prepaid and postpaid plans under one roof, and it's so much simpler. Other carriers should follow suit.",
+        "url": "https://www.androidauthority.com/boost-change-big-three-3463253/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/05/Stock-photo-of-major-US-carriers-Verizon-Wireless-ATT-and-T-Mobile-9.jpg",
+        "publishedAt": "2024-07-27T18:00:33Z",
+        "content": "Boost Mobile is one of the oldest and best-known prepaid networks in the US, though it has a mixed reputation depending on who you ask and what company owned it at the time. These days Boost is owned… [+3758 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Android Authority"
+        },
+        "author": "Robert Triggs",
+        "title": "Why Android-iPhone RCS will still (sometimes) suck",
+        "description": "Android and iPhone owners can finally share advanced messages thanks to RCS, but you're not alone if you've encountered problems.",
+        "url": "https://www.androidauthority.com/why-android-iphone-rcs-sucks-3464331/",
+        "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/06/RCS-on-iMessage-reactions.jpg",
+        "publishedAt": "2024-07-27T14:00:42Z",
+        "content": "After a battle of words lasting many years, Rich Communication Services, or RCS messaging, is finally available on iPhones via Apples Messages app. In theory, iPhone and Android users can share RCS m… [+6305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Best shots as Root passes Test milestone",
+        "description": "Watch some of the best shots as England's Joe Root scores 87  against the West Indies to surpasses 12,000 runs in Test cricket on day two of the third Test at Edgbaston.",
+        "url": "https://www.bbc.com/sport/cricket/videos/cpv36vw4zl2o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0e7c/live/34bafa10-4c23-11ef-8f0f-0577398c3339.jpg",
+        "publishedAt": "2024-07-27T14:25:24Z",
+        "content": "Watch some of the best shots as England's Joe Root scores 87 against the West Indies to surpasses 12,000 runs in Test cricket on day two of the third Test at Edgbaston.\r\nFOLLOW LIVE: England resume o… [+63 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Sky Sports"
+        },
+        "author": null,
+        "title": "Papers: Premier League new boys want Liverpool forward Doak",
+        "description": "The top stories and transfer rumours from Sunday's newspapers...",
+        "url": "https://www.skysports.com/football/transfer-paper-talk/12709/13186073/southampton-leicester-want-ben-doak-from-liverpool-as-arne-slot-showdown-talks-loom-paper-talk",
+        "urlToImage": "https://e0.365dm.com/19/10/1600x900/skysports-paper-talk-papers_4819668.jpg?20200516213727",
+        "publishedAt": "2024-07-27T21:30:00Z",
+        "content": "The top stories and transfer rumours from Sunday's newspapers...\r\nMAIL ON SUNDAY\r\nLeicester and Southampton are among several clubs keen on signing Liverpool starlet Ben Doak this summer - with the t… [+2140 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Seattle Times"
+        },
+        "author": "MALLIKA SEN",
+        "title": "Nita Ambani inaugurates India House, a first for the country at the Olympics",
+        "description": "Fresh off the year’s most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics.",
+        "url": "https://www.seattletimes.com/business/nita-ambani-inaugurates-india-house-a-first-for-the-country-at-the-olympics/",
+        "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/07/urnpublicidap.orgf1a0e81dcf7f971adfce041a5471b8c3Paris_Olympics_13963.jpg?d=1200x630",
+        "publishedAt": "2024-07-27T19:34:09Z",
+        "content": "PARIS (AP) Fresh off the year’s most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.\r\nThe first of its kind at an Olympic Games for India, the tempora… [+2415 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Ozbargain.com.au"
+        },
+        "author": "DNAngel",
+        "title": "[XSX, XB1] Cricket 24 $49.97 (50% off) @ Xbox Store",
+        "description": "Hey all,\n\nA huge discount is on the most comprehensive and realistic cricket game ever made!",
+        "url": "https://www.ozbargain.com.au/node/858957",
+        "urlToImage": "https://files.ozbargain.com.au/n/57/858957x.jpg?h=16d417ea",
+        "publishedAt": "2024-07-27T22:45:25Z",
+        "content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Us Weekly"
+        },
+        "author": "Miranda Siwak",
+        "title": "Jay Mohr Says 'Jerry Maguire' Costar Tom Cruise Is 'The Coolest Person'",
+        "description": "Paul Archuleta/Getty Images; Mike Coppola/WireImage Comedian Jay Mohr’s experience working with Tom Cruise on 1996’s Jerry Maguire is hard to top. “I think Tom Cruise is the coolest person I’ve ever met,” Mohr, 53, exclusively says in Us Weekly‘s 25 Things Yo…",
+        "url": "https://www.usmagazine.com/celebrity-news/news/jay-mohr-says-jerry-maguire-costar-tom-cruise-is-the-coolest/#article",
+        "urlToImage": "https://www.usmagazine.com/wp-content/uploads/2024/07/Jay-Mohr-Says-Jerry-Maguire-Costar-Tom-Cruise-Is-The-Coolest-Person-1.jpg?crop=0px%2C0px%2C2000px%2C1051px&resize=1200%2C630&quality=86&strip=all",
+        "publishedAt": "2024-07-27T12:00:48Z",
+        "content": "Sign InUp with your social account\r\nContinue with Google\r\nContinue with Facebook\r\nContinue with Amazon\r\nContinue with AppleWe won't post to any of your accounts\r\nGet back to the \r\nPaul Archuleta/Gett… [+3533 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bloguismo.com"
+        },
+        "author": "Anairas",
+        "title": "Monster Local casino Recommendations",
+        "description": "Blogs This is An alternative Improvements Gamble Cricket Playing For each Each Cricket Competitions Words Possibilities Greatest On the internet Position Video game To test Then there are the brand new Containers of Gold, Waiting Really, and you can Way to Ri…",
+        "url": "https://www.bloguismo.com/monster-local-casino-recommendations/",
+        "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+        "publishedAt": "2024-07-27T22:02:23Z",
+        "content": "Then there are the brand new Containers of Gold, Waiting Really, and you can Way to Riches added bonus cycles. We cater to the on the internet position professionals through providing slot video game… [+6649 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bloguismo.com"
+        },
+        "author": "Anairas",
+        "title": "Sky Bet Euro 2024 Last Provide",
+        "description": "Posts Up to 200 Local casino Bonus Late night Penny Bingo While you are BetMGM has many benefits, it is required to acknowledge some restrictions. BetMGM utilizes arbitrary account reviews, which can lead to temporary locking of money in the comment procedure…",
+        "url": "https://www.bloguismo.com/sky-bet-euro-2024-last-provide/",
+        "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+        "publishedAt": "2024-07-27T19:36:39Z",
+        "content": "While you are BetMGM has many benefits, it is required to acknowledge some restrictions. BetMGM utilizes arbitrary account reviews, which can lead to temporary locking of money in the comment procedu… [+5385 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Bloguismo.com"
+        },
+        "author": "Anairas",
+        "title": "Coral Subscribe Render, step three Coupons To possess July 2024",
+        "description": "Articles No deposit Added bonus Bottom line For the Bet365 100 percent free Bets Different types of Wager ten Get 29 Higher Casino Sale 40 Added bonus and 40 Totally free Revolves To the First Deposit You can even package ahead from the viewing and this event…",
+        "url": "https://www.bloguismo.com/coral-subscribe-render-step-three-coupons-to-possess-july-2024/",
+        "urlToImage": "https://g.twimg.com/Twitter_logo_blue.png",
+        "publishedAt": "2024-07-27T23:10:52Z",
+        "content": "You can even package ahead from the viewing and this events are likely to https://mobilecasino-canada.com/payeer/ be throwing away from from the low-too-faraway coming. Sporting events is paramount t… [+5242 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "Badminton-India's Shetty says sport needs more corporate support",
+        "description": "PARIS : In a country known internationally for its obsession with cricket, badminton has been fighting tooth-and-nail for its share of the limelight in India.From Saina Nehwal, who made history at the London 2012 Games when she bagged a bronze, to two-time Ol…",
+        "url": "https://www.channelnewsasia.com/sport/badminton-indias-shetty-says-sport-needs-more-corporate-support-4509066",
+        "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--VFU3Fv4x--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-07-27t165613z_1_lynxmpek6q07m_rtroptp_3_olympics-2024-badminton.jpg?itok=bJzeEb_K",
+        "publishedAt": "2024-07-27T16:56:13Z",
+        "content": "PARIS : In a country known internationally for its obsession with cricket, badminton has been fighting tooth-and-nail for its share of the limelight in India.\r\nFrom Saina Nehwal, who made history at … [+2096 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNA"
+        },
+        "author": null,
+        "title": "England fight back after losing early wickets",
+        "description": "BIRMINGHAM, England : Joe Root hit an unbeaten 58 and captain Ben Stokes was 48 not out as England fought back to reach lunch at 157-5 on the second day of the third test against the West Indies at Edgbaston on Saturday. The experienced pair steadied the inni…",
+        "url": "https://www.channelnewsasia.com/sport/england-fight-back-after-losing-early-wickets-4508816",
+        "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--uvxk3x5b--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-07-27t122204z_1_lynxmpek6q041_rtroptp_3_cricket-test-eng-win.jpg?itok=MUebMQYc",
+        "publishedAt": "2024-07-27T12:22:04Z",
+        "content": "BIRMINGHAM, England : Joe Root hit an unbeaten 58 and captain Ben Stokes was 48 not out as England fought back to reach lunch at 157-5 on the second day of the third test against the West Indies at E… [+973 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Online-tech-tips.com"
+        },
+        "author": "Sodiq Olanrewaju",
+        "title": "Google Play Store Gets AI-Generated App Reviews (and Other Features)",
+        "description": "Online Tech Tips is reader-supported. We may earn a commission when you buy through links on our site. Learn more.Google is using artificial intelligence (AI) to help users discover (the […]\nThe post Google Play Store Gets AI-Generated App Reviews (and Other …",
+        "url": "https://www.online-tech-tips.com/google-play-store-gets-ai-generated-app-reviews-and-other-features/",
+        "urlToImage": "https://www.online-tech-tips.com/wp-content/uploads/2024/07/google-play-stroe-for-you-tab-on-an-android-smartphone.jpeg",
+        "publishedAt": "2024-07-27T10:00:00Z",
+        "content": "Google is using artificial intelligence (AI) to help users discover (the right) apps in the Play Store. In a recent blog post, Google announced integrating AI-powered features into the Play Store, st… [+1666 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Minneapolis Star Tribune"
+        },
+        "author": "MALLIKA SEN",
+        "title": "Nita Ambani inaugurates India House, a first for the country at the Olympics",
+        "description": "Fresh off the year's most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.",
+        "url": "https://www.startribune.com/nita-ambani-inaugurates-india-house-a-first-for-the-country-at-the-olympics/600386769/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1721939393",
+        "publishedAt": "2024-07-27T19:34:02Z",
+        "content": "PARIS Fresh off the year's most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.\r\nThe first of its kind at an Olympic Games for India, the temporary ho… [+2436 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Boston Herald"
+        },
+        "author": "Associated Press",
+        "title": "Olympic fans can eat, drink and cheer in a mini World’s Fair in Paris park",
+        "description": "At the Parc des Nations, or Nations Park, 15 festive national team clubhouses amounts to a mini-World’s Fair on the edge of Paris.",
+        "url": "https://www.bostonherald.com/2024/07/27/olympic-fans-can-eat-drink-and-cheer-in-a-mini-worlds-fair-in-paris-park/",
+        "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2024/07/AP24206389748136.jpg?w=1024&h=683",
+        "publishedAt": "2024-07-27T13:15:06Z",
+        "content": "By JOCELYN NOVECK, AP National Writer\r\nPARIS (AP) — Sip a cool caipirinha cocktail in Brazil. Sample a spicy samosa in India. Boogie down with a DJ in France ’til the early hours. Or, do all three in… [+4349 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Minneapolis Star Tribune"
+        },
+        "author": "DAN GELSTON",
+        "title": "Ben Lively strikes out 6, Guardians top struggling Phillies 3-1 in key interleague showdown",
+        "description": "Ben Lively struck out six in six innings to lead the Cleveland Guardians to a 3-1 win over the Philadelphia Phillies on Friday night in a matchup of teams with the best records in baseball.",
+        "url": "https://www.startribune.com/ben-lively-strikes-out-6-guardians-top-struggling-phillies-3-1-in-key-interleague-showdown/600386610/",
+        "urlToImage": "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1721939393",
+        "publishedAt": "2024-07-27T01:31:01Z",
+        "content": "PHILADELPHIA Ben Lively struck out six in six innings to lead the Cleveland Guardians to a 3-1 win over the Philadelphia Phillies on Friday night in a matchup of teams with the best records in baseba… [+3369 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rlsbb.cc"
+        },
+        "author": "saamaan1@yahoo.com (Master), Master",
+        "title": "Sesame Street S54E34 720p AMZN WEB-DL H264-BTN",
+        "description": "Season 54, Episode 34 – “The Mystery Cricket”Elmo, Abby and Tamir come across a wooden cricket and learn that it’s Dave’s favorite Cuban musical instrument called a guiro.Links: HOMEPAGE – TVDBSesame.Street.S54E34.WEB.H264-RBBMP4 | AAC | 202MBNFO - Subtitles …",
+        "url": "https://rlsbb.cc/sesame-street-s54e34-720p-amzn-web-dl-h264-btn/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-27T05:55:30Z",
+        "content": "Season 54, Episode 34 “The Mystery Cricket”Elmo, Abby and Tamir come across a wooden cricket and learn that it’s Dave’s favorite Cuban musical instrument called a guiro.\r\nLinks:HOMEPAGE  TVDB\r\nSesame… [+253 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "All-rounder Dottin ends West Indies retirement",
+        "description": "West Indies all-rounder Deandra Dottin ends her international retirement, saying she is \"eager to return to the game that I love\".",
+        "url": "https://www.bbc.com/sport/cricket/articles/c16j1dlnljro",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/6594/live/e65a11f0-4c4d-11ef-b136-e7197f65c70e.jpg",
+        "publishedAt": "2024-07-27T19:34:08Z",
+        "content": "West Indies all-rounder Deandra Dottin has ended her international retirement, saying she is \"eager to return to the game that I love\". \r\nDottin, 33, had stepped away from international cricket in Au… [+1182 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "Timothy Abraham",
+        "title": "'Rolls-Royce' Smith wants to keep clearing stands",
+        "description": "England's Jamie Smith says he wants to keep clearing stands after his blistering knock puts the hosts in a commanding position over West Indies in the third Test.",
+        "url": "https://www.bbc.com/sport/cricket/articles/cd10mm13k28o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/3f68/live/681cc580-4c52-11ef-8f0f-0577398c3339.jpg",
+        "publishedAt": "2024-07-27T20:01:33Z",
+        "content": "Smith had already shown glimpses of his talent for England with 70 on his Test debut at Lord's, although those runs came in slightly less taxing circumstances.\r\nEngland were already in a strong posit… [+1434 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Afghanistan to play first-ever Test against New Zealand from September 9-13 in Noida",
+        "description": "Afghanistan's cricket board announced their first Test match against New Zealand held from September 9 to 13 in Greater Noida. The match was a significant milestone for Afghanistan and resulted from an agreement between the Afghanistan Cricket Board and BCCI.…",
+        "url": "https://economictimes.indiatimes.com/news/sports/afghanistan-to-play-first-ever-test-against-new-zealand-from-september-9-13-in-noida/articleshow/112067590.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-112067632,width-1200,height-630,imgsize-146178,overlay-economictimes/photo.jpg",
+        "publishedAt": "2024-07-27T13:34:31Z",
+        "content": "Kabul: Afghanistan will play its first-ever Test match against New Zealand on September 9 to 13 in Greater Noida, the country's cricket board announced on Saturday. New Zealand Test squad will then a… [+1736 chars]"
+      },
+      {
+        "source": {
+          "id": "financial-post",
+          "name": "Financial Post"
+        },
+        "author": "The Associated Press",
+        "title": "Nita Ambani inaugurates India House, a first for the country at the Olympics",
+        "description": "PARIS (AP) — Fresh off the year’s most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday. The first of its kind at an Olympic Games for India, the temporary house is meant to promote Indian culture as the country …",
+        "url": "https://financialpost.com/pmn/nita-ambani-inaugurates-india-house-a-first-for-the-country-at-the-olympics",
+        "urlToImage": null,
+        "publishedAt": "2024-07-27T20:00:04Z",
+        "content": "PARIS (AP) Fresh off the years most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.\r\nThe first of its kind at an Olympic Games for India, the temporar… [+2403 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "Passing the baton: Dravid shares special message for Gambhir as Team India kickstarts new era",
+        "description": "India's tour of Sri Lanka begins with the first T20I on Saturday and consists of three T20Is and three ODIs each. Gill will be the deputy to Suryakumar Yadav and Rohit Sharma in the short format and 50-overs, respectively. This is Gambhir's first assignment a…",
+        "url": "https://economictimes.indiatimes.com/news/sports/passing-the-baton-dravid-shares-special-message-for-gambhir-as-team-india-kickstarts-new-era/articleshow/112060050.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-112060150,width-1200,height-630,imgsize-23988,overlay-economictimes/photo.jpg",
+        "publishedAt": "2024-07-27T07:18:35Z",
+        "content": "As Team India prepares to kickstart a new era under the head coach Gautam Gambhir, former Indian coach Rahul Dravid, who vacated the job after a dream run at ICC T20 World Cup last month, had a whole… [+5561 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Gaurav Gupta",
+        "title": "Wankhede stadium to have LED floodlights",
+        "description": "The Wankhede Stadium is set for a major upgrade with the installation of LED floodlights. Following the refurbishment of the President’s Box, hospitality boxes, and the media box for the 2023 ODI World Cup, the Mumbai Cricket Association (MCA) has now initiat…",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/wankhede-stadium-to-have-led-floodlights/articleshow/112057476.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-112057536,width-1070,height-580,imgsize-61914,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-07-27T04:55:48Z",
+        "content": "Sharath Kamal, Sindhu lead Team India at opening ceremony"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Thehillstimes.in"
+        },
+        "author": "The Hills Times",
+        "title": "Jaishankar meets Russian FM Lavrov & other counterparts in Laos; exchange views on ways to further boost bilateral ties",
+        "description": "Vientiane (Laos), Jul 26 (PTI) External Affairs Minister S Jaishankar on Friday met his Russian counterpart Sergey Lavrov and leaders from South Korea, Singapore, Laos and other countries to discuss various aspects of bilateral collaboration, including educat…",
+        "url": "https://thehillstimes.in/international/jaishankar-meets-russian-fm-lavrov-other-counterparts-in-laos-exchange-views-on-ways-to-further-boost-bilateral-ties",
+        "urlToImage": null,
+        "publishedAt": "2024-07-27T18:40:00Z",
+        "content": "Vientiane (Laos), Jul 26 (PTI) External Affairs Minister S Jaishankar on Friday met his Russian counterpart Sergey Lavrov and leaders from South Korea, Singapore, Laos and other countries to discuss … [+3900 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "MALLIKA SEN Associated Press",
+        "title": "Nita Ambani inaugurates India House, a first for the country at the Olympics",
+        "description": "Fresh off the year’s most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/nita-ambani-inaugurates-india-house-country-olympics-112335958",
+        "urlToImage": "https://i.abcnewsfe.com/a/ccfa3e73-e4c0-4171-ac2a-4b00730940de/wirestory_f1a0e81dcf7f971adfce041a5471b8c3_16x9.jpg?w=1600",
+        "publishedAt": "2024-07-27T19:50:31Z",
+        "content": "PARIS -- Fresh off the year's most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.\r\nThe first of its kind at an Olympic Games for India, the temporary… [+2413 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "Asian News International",
+        "title": "Zimbabwe To Receive Touring Fee From ECB During UK Tour For One-Off Test",
+        "description": "Zimbabwe will become the first team in modern cricket to receive a \"touring fee\" from the hosts in bilateral cricket when they will travel to England for a one-off Test match",
+        "url": "https://sports.ndtv.com/cricket/zimbabwe-to-receive-touring-fee-from-ecb-during-uk-tour-for-one-off-test-next-year-6200624",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/s1m2k86g_team-zimbabwe_625x300_27_July_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T10:14:51Z",
+        "content": "In a first, Zimbabwe will become the first team in modern cricket to receive a \"touring fee\" from the hosts in bilateral cricket when they will travel to England for a one-off Test match in the summe… [+2970 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Bumrah No Longer India's Test Vice-Captain? Report Names Rohit's New Deputy",
+        "description": "Shubman Gill is all set to replace Jasprit Bumrah as the Indian cricket team vice-captain in the upcoming Test series against Bangladesh, according to a report.",
+        "url": "https://sports.ndtv.com/cricket/jasprit-bumrah-no-longer-indias-test-vice-captain-report-names-rohit-sharmas-new-deputy-6197356",
+        "urlToImage": "https://c.ndtvimg.com/2022-04/jmsbfeao_jasprit-bumrah-test-afp_625x300_26_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T01:54:58Z",
+        "content": "Shubman Gill is all set to replace Jasprit Bumrah as the Indian cricket team vice-captain in the upcoming Test series against Bangladesh, according to a report by Revsportz. The youngster was reporte… [+1821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "As Gambhir Begins India Coach Job, Manjrekar's Blunt Reminder Of His Role",
+        "description": "Former India cricketer Sanjay Manjrekar said it is not about the coach but Indian cricket as a whole that won the four World Cups for the country.",
+        "url": "https://sports.ndtv.com/cricket/as-gautam-gambhir-begins-team-india-stint-sanjay-manrekars-coach-correlation-post-draws-flak-6199559",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/ivd68ito_gautam-gambhir-and-ajit-agarkar-afp_625x300_27_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T07:45:24Z",
+        "content": "Former India cricketer Sanjay Manjrekar triggered a debate on social media with his strange remarks about the coaches of the Indian team. Just as Gautam Gambhir prepares to begin his stint as the hea… [+1895 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "Indo-Asian News Service",
+        "title": "Afghanistan To Play One-Off Test Against New Zealand In Greater Noida",
+        "description": "This will be the first time that Afghanistan will play a Test match against New Zealand.",
+        "url": "https://sports.ndtv.com/cricket/afghanistan-to-play-one-off-test-against-new-zealand-in-greater-noida-6201837",
+        "urlToImage": "https://c.ndtvimg.com/2019-09/fcjh9tig_afghanistan-test-win-afp_650x400_09_September_19.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T14:09:48Z",
+        "content": "The Afghanistan Cricket Board (ACB) confirmed on Saturday that their men's team will play a one-off Test match against New Zealand from September 913 in Greater Noida. This will be the first time tha… [+1685 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "Asian News International",
+        "title": "\"World Cup Is History\": SKY's Huge Message For Indian Cricket Team Stars",
+        "description": "Suryakumar Yadav confirmed that Shivam Dube, Sanju Samson, Khaleel Ahmed, and Washington Sundar will miss the first match of the T20I series against Sri Lanka.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/world-cup-is-history-suryakumar-yadavs-huge-message-ahead-of-1st-t20i-clash-vs-sri-lanka-6201966",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/5skd5p1g_vv_625x300_27_July_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T13:45:32Z",
+        "content": "Pallekele :\r\n Charith Asalanka-led Sri Lanka won the toss and decided to field against Suryakumar Yadav's India in the first T20I match of the series at the Pallekele International Cricket Stadium on… [+1843 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "1st T20I Live: Head Coach Gambhir, Captain Surya In Focus As India Face SL",
+        "description": "IND vs SL LIVE Cricket Score: Sri Lanka captain Charith Asalanka won the toss and opted to bowl first against India in the first T20I of the three-match series",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/india-vs-sri-lanka-live-score-1st-t20-today-match-ind-vs-sl-latest-scorecard-6201059",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/paoi67tg_ind-vs-sl_625x300_27_July_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T12:00:50Z",
+        "content": "India vs Sri Lanka, 1st T20I Live Updates: Sri Lanka captain Charith Asalanka won the toss and opted to bowl first against India in the first T20I of the three-match series at Pallekele International… [+498 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Watch: Dravid's Surprise Call Makes Gambhir Emotional Ahead Of 1st T20I",
+        "description": "Gautam Gambhir received a surprise message from Rahul Dravid as the former begins his stint as Team India's head coach.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/rahul-dravids-surprise-call-makes-gautam-gambhir-emotional-ahead-of-1st-t20i-vs-sri-lanka-watch-6198928",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/h41btmig_rahul-dravid-and-gautam-gambhir-x_625x300_27_July_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T04:17:38Z",
+        "content": "As Gautam Gambhir begins his journey as Team India's new head coach, a surprise message awaited him ahead of the first T20I against Sri Lanka. In a video shared by the BCCI, Gambhir received a messag… [+3835 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Suryakumar Breaks Silence On Hardik's Role, Captaincy Change In T20Is",
+        "description": "Suryakumar Yadav replaced Rohit Sharma as India's T20I skipper after the latter's retirement, with Hardik Pandya losing even his role as the team's vice-captain.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/suryakumar-yadav-breaks-silence-on-hardik-pandyas-role-captaincy-change-in-t20is-6199458",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/dou5u8rg_suryakumar-yadav-x_625x300_27_July_24.jpeg",
+        "publishedAt": "2024-07-27T06:04:06Z",
+        "content": "India's new T20I captain doesn't intend to change anything as he replaces Rohit Sharma as India's T20I captain. Surya, attending his first press conference as the full-time captain of the Indian team… [+2532 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "India's Predicted XI vs Sri Lanka, 1st T20I: No Place For Samson In Team?",
+        "description": "With Rishabh Pant's return to Team India's T20I side, Sanju Samson is unlikely to feature in the first T20I against Sri Lanka.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/indias-predicted-xi-vs-sri-lanka-1st-t20i-no-place-for-sanju-samson-in-team-6198782",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/5s5utb18_sanju-samson-x_625x300_24_July_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T03:36:46Z",
+        "content": "The Indian cricket team begins the Gautam Gambhir-Suryakumar Yadav era in T20 international cricket, with the first match against Sri Lanka on Saturday. Some bold calls are expected to be taken as Su… [+1980 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "\"Abhi Karlenge Poora...\": Suryakumar's Funny Reply To Gambhir's Regret",
+        "description": "India's newly-appointed head coach Gautam Gambhir had recently expressed his regret for not using Suryakumar Yadav's potential while they were together in the Kolkata Knight Riders team.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/abhi-karlenge-poora-suryakumar-yadavs-funny-reply-to-gautam-gambhirs-regret-6197070",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/20lqbu1g_gautam-gambhir-suryakumar-yadav-x-imtanujsingh_625x300_25_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T05:24:03Z",
+        "content": "India's newly-appointed head coach Gautam Gambhir had recently expressed his regret for not using Suryakumar Yadav's potential while they were together in the Kolkata Knight Riders team. Surya has no… [+1820 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "Suryakumar Matches Kohli's World Record, Takes 56 Matches Less",
+        "description": "India's T20I captain Suryakumar Yadav matched Virat Kohli's World Record in about half the time.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/suryakumar-yadav-matches-virat-kohlis-world-record-takes-56-matches-less-to-reach-milestone-6204289",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/176d598o_suryakumar-yadav-x_625x300_28_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T21:00:36Z",
+        "content": "India's newly-appointed T20I skipper Suryakumar Yadav began his journey as the full-time skipper of the team in emphatic fashion, winning the first match of the series quite convincingly. Suryakuma's… [+2940 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "India vs Sri Lanka Live Streaming 1st T20I: When And Where To Watch Match",
+        "description": "India vs Sri Lanka Live Streaming, 1st T20I Live Telecast: Here are the live streaming and live telecast details of the game -",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/india-vs-sri-lanka-live-streaming-1st-t20i-live-telecast-when-and-where-to-watch-match-live-6199248",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/88026qp_suryakumar-yadav-afp_625x300_24_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T11:30:36Z",
+        "content": "India vs Sri Lanka Live Streaming, 1st T20I: India face Sri Lanka in the first T20I of the three-match on Saturday in Pallekele. This will be new head coach Gautam Gambhir's first assignment as Team … [+1171 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "First Time In 147 Years: Zimbabwe Cricketer Registers Unwanted Record",
+        "description": "Zimbabwe wicketkeeper Clive Madande broke a 90-year unwanted record when he conceded 42 byes in a Test innings against Ireland.",
+        "url": "https://sports.ndtv.com/cricket/first-time-in-147-years-zimbabwe-cricketer-registers-unwanted-record-6197417",
+        "urlToImage": "https://c.ndtvimg.com/2024-07/u6tgqmjo_sad_625x300_27_July_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T02:04:04Z",
+        "content": "Zimbabwe wicketkeeper Clive Madande set a never-seen-before unwanted record when he conceded 42 byes in a Test innings against Ireland on Friday. The runs given away by the 24-year-old Madande, endur… [+1454 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "NDTV Sports Desk",
+        "title": "\"We Went To India, Now...\": Ex-Pak Star's Passionate Champions Trophy Plea",
+        "description": "Champions Trophy 2025: It has been reported that the Indian government is unlikely to give travel clearance to the team for the tournament in Pakistan.",
+        "url": "https://sports.ndtv.com/cricket/we-are-hospitable-ex-pakistan-captains-humble-request-to-india-amid-champions-trophy-row-6193663",
+        "urlToImage": "https://c.ndtvimg.com/2024-06/k50onmmg_india-vs-pakistan-t20-world-cup-2024_625x300_09_June_24.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T02:47:01Z",
+        "content": "Former Pakistan captain Shoaib Malik has shared his views on India's potential withdrawal from the Champions Trophy 2025. Ever since Pakistan were awarded the rights to host the Champions Trophy, the… [+1966 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NDTV News"
+        },
+        "author": "Aditya Kumar",
+        "title": "\"Should Keep It Behind Their Back\": Ex-India Star On Virat-Gambhir IPL Row",
+        "description": "A lot has been said and talked about how the Gautam Gambhir-Virat Kohli relationship could be in the upcoming years during the former's reign as Team India head coach.",
+        "url": "https://sports.ndtv.com/sri-lanka-vs-india-2024/they-should-keep-it-behind-their-back-ex-india-star-on-virat-kohli-gautam-gambhir-ipl-row-6196403",
+        "urlToImage": "https://c.ndtvimg.com/2024-03/75nggdh_gambhir-kohli_625x300_29_March_24.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2024-07-27T06:37:42Z",
+        "content": "A lot has been said and talked about how the Gautam Gambhir-Virat Kohli relationship could be in the upcoming years during the former's reign as Team India's head coach. The duo, who had a huge verba… [+2113 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "MALLIKA SEN Associated Press",
+        "title": "Nita Ambani inaugurates India House, a first for the country at the Olympics",
+        "description": "Fresh off the year’s most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics",
+        "url": "https://abcnews.go.com/Business/wireStory/nita-ambani-inaugurates-india-house-country-olympics-112335960",
+        "urlToImage": "https://i.abcnewsfe.com/a/ccfa3e73-e4c0-4171-ac2a-4b00730940de/wirestory_f1a0e81dcf7f971adfce041a5471b8c3_16x9.jpg?w=1600",
+        "publishedAt": "2024-07-27T19:50:33Z",
+        "content": "PARIS -- Fresh off the year's most extravagant wedding, Nita Ambani inaugurated the India House for the Paris Olympics on Saturday.\r\nThe first of its kind at an Olympic Games for India, the temporary… [+2413 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Data Skrive",
+        "title": "How to watch live cricket streaming - Monday, July 28",
+        "description": "The cricket slate on Sunday, July 28 features matches that can be seen on TV in the USA, including Major League Cricket play. For a complete list, along with details on how to watch or live stream …",
+        "url": "https://ftw.usatoday.com/article/how-to-watch-live-cricket-streaming-monday-july-28",
+        "urlToImage": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2024/07/19254055-7.jpg?w=1024&h=576&crop=1",
+        "publishedAt": "2024-07-27T21:23:00Z",
+        "content": "The cricket slate on Sunday, July 28 features matches that can be seen on TV in the USA, including Major League Cricket play. For a complete list, along with details on how to watch or live stream it… [+1116 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "One thing he will have to learn...: Ravi Shastri highlights major challenge for Suryakumar as India's T20I captain",
+        "description": "Ravi Shastri, former India all-rounder and head coach, has backed newly-appointed T20I captain Suryakumar Yadav for India's tour of Sri Lanka. Shastri believes Suryakumar can succeed as India's T20I captain, but warns him to quickly work out the strengths and…",
+        "url": "https://economictimes.indiatimes.com/news/sports/one-thing-he-will-have-to-learn-ravi-shastri-highlights-major-challenge-for-suryakumar-as-indias-t20i-captain/articleshow/112057367.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-112057387,width-1200,height-630,imgsize-29080,overlay-economictimes/photo.jpg",
+        "publishedAt": "2024-07-27T04:45:24Z",
+        "content": "Former India all-rounder and head coach Ravi Shastri backed newly-appointed T20I captain Suryakumar Yadav to do well for the team and pointed out one major area that he must work on to earn success a… [+3529 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rlsbb.ru"
+        },
+        "author": "Robotnico",
+        "title": "Sesame Street S54E34 720p AMZN WEB-DL H264-BTN",
+        "description": "Season 54, Episode 34 – “The Mystery Cricket”Elmo, Abby and Tamir come across a wooden cricket and learn that it’s Dave’s favorite Cuban musical instrument called a guiro.Links: HOMEPAGE – TVDBSesame.Street.S54E34.WEB.H264-RBBMP4 | AAC | 202MBNFO - Subtitles …",
+        "url": "https://rlsbb.ru/sesame-street-s54e34-720p-amzn-web-dl-h264-btn/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-27T05:40:52Z",
+        "content": "Season 54, Episode 34 “The Mystery Cricket”Elmo, Abby and Tamir come across a wooden cricket and learn that it’s Dave’s favorite Cuban musical instrument called a guiro.\r\nLinks:HOMEPAGE  TVDB\r\nSesame… [+253 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "insider@insider.com (Brendan Griffiths)",
+        "title": "How to watch free Olympics tennis live stream from anywhere: Nadal, Alcaraz, Djokovic, Swiatek, Gauff, and more",
+        "description": "With so many events happening at once, don't miss our guide on where to watch the Olympics tennis live streams - the biggest matches are showing free.",
+        "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-free-olympics-tennis-live-stream-2024",
+        "urlToImage": "https://i.insider.com/66a3c3531a227600e631f47b?width=1200&format=jpeg",
+        "publishedAt": "2024-07-27T07:30:02Z",
+        "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nWith so many sports events happening right now in Paris, it can be hard to track down the specific ones … [+7738 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Press Trust of India",
+        "title": "Afghanistan to play first Test against New Zealand from Sept 9-13 in Noida",
+        "description": "Afghanistan will play its first-ever Test match against New Zealand on September 9 to 13 in Greater Noida, the country's cricket board announced on Saturday.\nNew Zealand Test squad will then again be back in India within a month to play a three-Test series ag…",
+        "url": "https://www.business-standard.com/cricket/news/afghanistan-to-play-first-test-against-new-zealand-from-sept-9-13-in-noida-124072700742_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/23/thumb/fitandfill/400X400/1719114928-1269.jpg",
+        "publishedAt": "2024-07-27T17:10:41Z",
+        "content": "The Greater Noida venue has been allocated for Afghanistan's home games, following a mutual agreement between Afghanistan Cricket Board (ACB) and the Board of Control for Cricket in India (BCCI)\r\nAfg… [+2305 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "Aditya Kaushik",
+        "title": "India vs Sri Lanka 1st T20 playing 11, live match time, streaming, telecast",
+        "description": "India has three open slots in their playing 11 following the retirement of Rohit Sharma, Virat Kohli and Ravindra Jadeja.",
+        "url": "https://www.business-standard.com/cricket/news/india-vs-sri-lanka-1st-t20-playing-11-live-match-time-streaming-telecast-124072600505_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/27/thumb/featurecrop/400X400/1722053950-3414.jpg",
+        "publishedAt": "2024-07-27T04:19:33Z",
+        "content": "India has three open slots in their playing 11 following the retirement of Rohit Sharma, Virat Kohli and Ravindra Jadeja.\r\nIndia vs Sri Lanka 1st T20 Playing 11\r\nAditya KaushikNew Delhi\r\nThe new era … [+3682 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Business Standard"
+        },
+        "author": "ANI",
+        "title": "Paris Olympics 2024: Nita Ambani, PT Usha, others inaugurate India House",
+        "description": "Speaking during the inauguration ceremony, Nita Ambani welcomed the world to the 'India House' to experience the beauty, diversity and rich heritage of India",
+        "url": "https://www.business-standard.com/sports/olympics/paris-olympics-2024-nita-ambani-pt-usha-others-inaugurate-india-house-124072700932_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/27/thumb/featurecrop/400X400/1722100980-5624.jpg",
+        "publishedAt": "2024-07-27T17:32:17Z",
+        "content": "Speaking during the inauguration ceremony, Nita Ambani welcomed the world to the 'India House' to experience the beauty, diversity and rich heritage of India\r\nAmbassador of India to France Jawed Ashr… [+4794 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Times Of India",
+        "title": "Live Cricket Score, India vs Sri Lanka, 1st T20I",
+        "description": "Live Cricket Score IND vs SL: Stay updated with Times of India to get all the live cricket score updates, scorecard, and ball by ball commentary of t",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/live-cricket-score-india-vs-sri-lanka-1st-t20i-today-match-latets-scorecard-updates/liveblog/112066718.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-112066718,width-1070,height-580,imgsize-140440,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-07-27T12:42:22Z",
+        "content": "Kamindu Mendis to Suryakumar Yadav, A four in the first ball, and then five singles for Kamindu Mendis in his first over. Around the wicket, on a good length, on middle, Suryakumar Yadav goes back an… [+120 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "autosport.com"
+        },
+        "author": "Matt Somerfield",
+        "title": "Alpine's F1 upheaval continues with major changes on track",
+        "description": "The major changes Alpine is going through off track have been mirrored with some extensive revisions on it, as some big updates appeared on its Formula 1 car in Belgium.The new development package starts with the front wing, as the designers have rebalanced t…",
+        "url": "https://www.autosport.com/f1/news/alpines-f1-upheaval-continues-with-major-changes-on-track/10639256/",
+        "urlToImage": "https://cdn-9.motorsport.com/images/amp/6D1pwoJ0/s6/pierre-gasly-alpine-a524.jpg",
+        "publishedAt": "2024-07-27T09:39:46Z",
+        "content": "The major changes Alpine is going through off track have been mirrored with some extensive revisions on it, as some big updates appeared on its Formula 1 car in Belgium.\r\nThe new development package … [+2916 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New Zealand Herald"
+        },
+        "author": null,
+        "title": "New Zealand Cricket set for first-ever test against Afghanistan in India",
+        "description": "The test will take place about a month before the India series gets under way.",
+        "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/new-zealand-cricket-set-for-first-ever-test-against-afghanistan-in-india/ZXQE4C4Q5VGQPO3I2UAQNH3XIA/",
+        "urlToImage": "https://www.nzherald.co.nz/resizer/v2/KM367QQK7JHITAWGNRJ5KMLSC4.jpg?auth=14acdf4a5f74f026e23077c57dd35f1a392b56f911fe4c284f8fe06eb4485f1f&width=1200&height=675&quality=70&focal=2239%2C673&smart=false",
+        "publishedAt": "2024-07-27T21:35:18Z",
+        "content": "The Black Caps were thumped by Afghanistan in their T20 World Cup opener. Photo / Getty ImagesThe Black Caps are set to play Afghanistan in a test match for the first time in September.\r\nThe Afghanis… [+945 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": "Srinidhi Ramanujam",
+        "title": "India favourites but Sri Lanka won't be pushovers in Women's Asia Cup final",
+        "description": "The two teams have been neck and neck at this year's tournament",
+        "url": "https://www.espncricinfo.com/series/women-s-asia-cup-2024-1426636/sri-lanka-women-vs-india-women-final-1426770/match-preview",
+        "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/385200/385225.6.jpg",
+        "publishedAt": "2024-07-27T15:35:04Z",
+        "content": "PreviewThe two teams have been neck and neck at this year's tournament\r\nIndia have won all but one edition of the women's Asia Cup  •  ACC\r\nMatch details\r\nIndia vs Sri Lanka, Women's T20 Asia Cup fin… [+4012 chars]"
+      }
+    ]
+  }
